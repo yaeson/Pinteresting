@@ -9,6 +9,7 @@ $brand-primary: #c0392b;
 $navbar-default-brand-color: #c0392b;
 $navbar-height:                                        45px;
 
+@import 'bootstrap-sprockets';
 @import 'bootstrap';
 
 .center {
